@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Thumbnail](assets/banner.png)
 
 === XML-RPC Disabler ===
 Contributors: RED Media Corporation
