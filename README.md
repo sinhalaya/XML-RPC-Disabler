@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 === XML-RPC Disabler ===
 Contributors: RED Media Corporation
 Tags: xmlrpc, security
